@@ -67,6 +67,7 @@
          {
         response.sendRedirect("quiz.jsp");
         session.setAttribute("user","admin");
+        session.setAttribute("score","0");
     }
     else{
         out.print("Login failure");
