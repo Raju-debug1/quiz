@@ -1,4 +1,4 @@
-<html>
+
 <%
 String[] questions=new String[3];
 questions[0]="what is th capital city of Nepal?";
@@ -12,7 +12,7 @@ qu[1]="who is the current president of Nepal?";
 questions[2]="In which continent does Turkey lie?";
 %>
 
-
+<html>
 <head>
   <title>Quiz App</title>
  
